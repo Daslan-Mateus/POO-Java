@@ -9,6 +9,7 @@ public class Main {
         r.girarDireita(180);
         r.passoFrente(270);
         r.passoTras(380);
+        
     }
     
 }

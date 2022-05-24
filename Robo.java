@@ -14,7 +14,7 @@ if(xE % 2 == 0 ){
     System.out.println("Sorria para a foto ");
 }
 if(carga <= 20){
-    System.out.println("sua bateria precisa ser recarre");
+    System.out.println("sua bateria precisa ser recarregada");
 }
 System.out.println();
 }
@@ -27,7 +27,7 @@ public void girarDireita(int xD){
         System.out.println("Sorria para a foto ");
     }
     if(carga <= 20){
-        System.out.println("sua bateria precisa ser recarre");
+        System.out.println("sua bateria precisa ser recarregada");
     }
     System.out.println();
 }
@@ -41,7 +41,7 @@ public void passoFrente(int xF) {
         System.out.println("Sorria para a foto ");
     }
     if(carga <= 20){
-        System.out.println("sua bateria precisa ser recarre");
+        System.out.println("sua bateria precisa ser recarregada");
     }
     System.out.println();
 }
