@@ -1,4 +1,6 @@
 public class ProjetoYoutube {
+    
+   //NESTE CÓDIGO EXISTE RELAÇÃO DE COMPOSIÇÃO
     public static void main(String[] args) {
         Video myVideo[] = new Video[2];
         myVideo[0] = new Video("Teste 1");
