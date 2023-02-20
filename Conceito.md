@@ -15,3 +15,6 @@
 - Agregação --> é a colaboração entre classes 
 - Acoplamento --> capacidade das classes estarem conectadas e assim executarem operações em comum
 
+## OBJETO
+
+
